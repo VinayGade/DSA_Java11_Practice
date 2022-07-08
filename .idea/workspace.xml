@@ -2,23 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="537dc9ef-0534-4a6c-bbd8-b572f8ec2e3c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java11_Practice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dsa/gfg/linkedlist/doubly/DoublyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dsa/gfg/linkedlist/doubly/DoublyListDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dsa/gfg/linkedlist/doubly/DoublyNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dsa/gfg/linkedlist/doubly/two_heads/DLL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dsa/gfg/linkedlist/doubly/two_heads/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dsa/gfg/linkedlist/doubly/two_heads/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dsa/gfg/linkedlist/doubly/two_way/DoublyTwoHeadsList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dsa/gfg/linkedlist/doubly/two_way/NoSuchElementException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dsa/gfg/linkedlist/exceptions/EmptyListException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dsa/gfg/linkedlist/singly/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dsa/hackerrank/HeapOperations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,20 +38,12 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DoublyTwoHeadsList">
-    <configuration name="DLL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dsa.gfg.linkedlist.doubly.two_heads.DLL" />
-      <module name="Java11_Practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dsa.gfg.linkedlist.doubly.two_heads.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/dsa/gfg/linkedlist/singly" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.LinkedList">
     <configuration name="DoublyLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dsa.gfg.linkedlist.doubly.DoublyLinkedList" />
       <module name="Java11_Practice" />
@@ -105,20 +83,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+    <configuration name="HeapOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.hackerrank.HeapOperations" />
       <module name="Java11_Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dsa.hackerrank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.gfg.linkedlist.singly.LinkedList" />
+      <module name="Java11_Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dsa.gfg.linkedlist.singly.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LinkedList" />
+        <item itemvalue="Application.HeapOperations" />
         <item itemvalue="Application.DoublyTwoHeadsList" />
         <item itemvalue="Application.DoublyLinkedList" />
         <item itemvalue="Application.DoublyListDemo" />
-        <item itemvalue="Application.DLL" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
